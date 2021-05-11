@@ -1,0 +1,48 @@
+body{
+    background-color: thistle;
+    
+}
+#instagram{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 500px;
+
+
+}
+#facebook{
+    width:100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 500px;
+}
+
+#vsco{
+    width: 150px;
+    height: 100px;
+    margin-top: 450px;
+    margin-left: 500px;
+}
+
+.ins-text{
+    position:absolute;
+    margin-top: 180px;
+    margin-left: 700px;
+}
+.fb-text{
+    position:absolute;
+    margin-left: 700px;
+    margin-top: 330px;
+}
+
+.vsco-text{
+    position:absolute;
+    margin-left: 750px;
+    margin-top: -70px;
+}
+
+.upper{
+    text-align: center;
+}
